@@ -4,7 +4,7 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="https://github.com/soleilshine/WD-EXAM-ROW-4">
   <!-- TODO: If you want to add logo or banner you can add it here -->
     <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
   </a>
@@ -59,18 +59,18 @@
 <!-- The following are just sample -->
 Description of the project in details.
 
-Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+- Website Design
+- Midterm Exam
+-  What technology used and how it is used
+  1. Waka Time - used to keep track of activity time in projects, ide, os, and language
+  2. HTML - used to create and structure content on the web
+  3. CSS - used to describe the presentation of a document written in HTML
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
 - MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+
 
 ### Technology
 <!-- TODO: List of Technology Used -->
@@ -117,4 +117,4 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Content Image | Used for website image | https://assets.eposnow.com/public/blog-images/coffee-shops-profitable__Resampled.jpg |
